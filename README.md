@@ -1,22 +1,22 @@
-## Hi 👋, I'm [Somnath Dudhat!](https://ankitwarbhe.github.io) 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
+## Hi 👋, I'm [Somnath Dudhat!](https://Somnath2001.github.io) 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Somnath2001&label=Views&color=blue&style=plastic" alt="Somnath2001" /> </p>
 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
- <a href="https://dev.to/ankitwarbhe">
+ <a href="https://dev.to/Somnath2001">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
 </a>
-<a href="https://twitter.com/ankitwarbhe">
+<a href="https://twitter.com/Somnath2001">
   <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ankit-warbhe/">
+<a href="https://www.linkedin.com/in/Somnath2001/">
   <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/ankit.warbhe/">
+<a href="https://www.instagram.com/Somnath2001/">
   <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://devfolio.co/@ankitwarbhe/">
+<a href="https://devfolio.co/@Somnath2001/">
   <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
 </a>
 
@@ -24,7 +24,7 @@
 
 
 
-- :telescope: I'm currently studying BTech in CSE 💻;
+- :telescope: I'm currently studying  Computer Engineering 💻;
 - :hourglass_flowing_sand: Learning ML and DL;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - :man_technologist: B.Tech(Computer Science and Engineering), GHRCE; 
@@ -39,7 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
 </a>
 <a href="https://github.com/ankitwarbhe">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Somnath2001&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
 </a>
 
 ⭐️ From [Ankit Warbhe](https://github.com/ankitwarbhe)
