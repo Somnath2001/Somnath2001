@@ -2,9 +2,6 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-
 
 <p align="center">
   <em>
@@ -30,7 +27,7 @@
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> &nbsp;***Languages & Tools I Know...***
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
