@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is ME,Somnath Dudhat, a <b>programming Addicted</b> undergraduate from <a href="http://cms.sinhgad.edu/sinhgad_engineering_institutes/sknsits_lonavala/about_us.aspx/"> <b>SKN Sinhgad Institite of Science and Technology</b>, Lonavala</a>. <br>
+    This is ME,<b>Somnath Dudhat<b>, a <b>programming Addicted</b> undergraduate from <a href="http://cms.sinhgad.edu/sinhgad_engineering_institutes/sknsits_lonavala/about_us.aspx/"> <b>SKN Sinhgad Institite of Science and Technology</b>, Lonavala</a>. <br>
     <b>learning Full-Stack development </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and A <b> UI Design Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
