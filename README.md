@@ -23,7 +23,7 @@
 ✔ I’m currently Learning Reactjs and MEARN stack <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I use to write Code  on Vscode $ Sublime  <br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+
  
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> &nbsp;***Languages & Tools I Know...***
@@ -43,14 +43,18 @@
   
   <hr>
 <p align="center">
+  
+  
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Somnath2001&locale=en&layout=compact&theme=chartreuse-dark" alt="somnath github" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Somnath2001&locale=en&layout=compact&theme=chartreuse-dark" alt="somnath github" width="410" /></p>
+    
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Somnath2001&show_icons=true&locale=en&theme=chartreuse-dark" alt="somnath github" width="410" /></p>
+
 <br><br><br><br><br>
 <hr>
     
-    
+
  
 <summary> Connect with me🤝: </summary>  
 
