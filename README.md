@@ -23,7 +23,7 @@
 ✔ I’m currently Learning Reactjs and MEARN stack <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I use to write Code  on Vscode $ Sublime  <br>
-
+<br>
  
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> &nbsp;***Languages & Tools I Know...***
@@ -42,8 +42,7 @@
  
   
   <hr>
-<p align="center">
-  
+
   
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
