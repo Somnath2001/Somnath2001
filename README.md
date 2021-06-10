@@ -44,7 +44,8 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Somnath2001&show_icons=true&locale=en&layout=compact" alt="Somnath2001" /></p>
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Somnath2001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="somnath's Github Stats">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Somnath2001&show_icons=true&locale=en" alt="Somnath2001" width="410" /></p>
 
