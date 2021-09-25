@@ -20,7 +20,7 @@
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">&nbsp;***Talking about Personal Stuffs...***<br>
-✔ I’m currently Learning MEARN stack <br>
+✔ I’m currently working on MEARN stack project <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I use to write Code  on Vscode $ Sublime  <br>
 <br><br><br>
