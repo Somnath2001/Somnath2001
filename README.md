@@ -6,27 +6,27 @@
 <p align="center">
   <em>
     This is ME,<b>Somnath Dudhat<b>, a <b>programming Addicted</b> undergraduate from <a href="http://cms.sinhgad.edu/sinhgad_engineering_institutes/sknsits_lonavala/about_us.aspx/"> <b>SKN Sinhgad Institite of Science and Technology</b>, Lonavala</a>. <br>
-    <b>I am Full-Stack MERN developer </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>I am Full-Stack MERN developer </b> &nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> and 
+    <b>excel</b> &nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+   <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Somnath2001&label=Profile%20views&color=0e75b6&style=flat" alt="Somnath2001" /> </p>
 <img align="right" height="350px" width="450px"  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">&nbsp;***Talking about Personal Stuffs...***<br>
-✔ I’m currently working on MEARN stack project <br>
+&nbsp;***Talking about Personal Stuffs...***<br>
+✔ I’m currently working on MERN stack projects <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I use to write Code  on Vscode $ Sublime  <br>
 <br><br><br>
  
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> &nbsp;***Languages & Tools I Know...***
+ &nbsp;***Languages & Tools I Know...***
 <p align="left">
   
 
@@ -49,13 +49,13 @@
   <hr>
 
   
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+&nbsp;<i><summary>Git Activeness</summary></i></p>
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Somnath2001&locale=en&layout=compact&theme=chartreuse-dark" alt="somnath github" width="400" /></p>
     
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Somnath2001&show_icons=true&locale=en&theme=chartreuse-dark" alt="somnath github" width="400" /></p>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 <hr>
     
 
