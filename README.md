@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
@@ -7,30 +7,29 @@
   <em>
     This is ME,<b>Somnath Dudhat<b>, a <b>programming Addicted</b> undergraduate from <a href="http://cms.sinhgad.edu/sinhgad_engineering_institutes/sknsits_lonavala/about_us.aspx/"> <b>SKN Sinhgad Institite of Science and Technology</b>, Lonavala</a>. <br>
     <b>I am Full-Stack MERN developer </b> &nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to
-    <b>grow</b> and
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> and 
     <b>excel</b> &nbsp.
-  </em>
+  </em> 
   <br>
-   <b><i>Learning while HOPING & HUSTLING!!!</i></b>
+   <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Somnath2001&label=Profile%20views&color=0e75b6&style=flat" alt="Somnath2001" /> </p>
 <img align="right" height="350px" width="450px"  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
-
-&nbsp;***Talking about Personal Stuffs...***<br>
+&nbsp;**_Talking about Personal Stuffs..._**<br>
 ✔ I’m currently working on MERN stack projects <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I use to write Code  on Vscode $ Sublime  <br>
+✔ I use to write Code on Vscode $ Sublime <br>
 <br><br><br>
 
+&nbsp;**_Languages & Tools I Know..._**
 
- &nbsp;***Languages & Tools I Know...***
 <p align="left">
 
 
- ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=C++&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -41,23 +40,23 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-23E67D27?style=flat-square&logo=express.js&logoColor=ffffff)
-![Mongodb](https://img.shields.io/badge/-Mongodb-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
+![Mongodb](https://img.shields.io/badge/-Mongodb-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-  <hr>
 
+  <hr>
 
 &nbsp;<i><summary>Git Activeness</summary></i></p>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Somnath2001&locale=en&layout=compact&theme=chartreuse-dark" alt="somnath github" width="400" /></p>
-
+    
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Somnath2001&show_icons=true&locale=en&theme=chartreuse-dark" alt="somnath github" width="400" /></p>
 
 <br><br><br><br><br><br>
-<hr>
 
+<hr>
 
 
 <summary> Connect with me🤝: </summary>
@@ -86,9 +85,9 @@
 
 <br/>
 
-<hr>   -->
+<hr>
 
-<h1 align="center">Hi 👋, I'm Somnath Dudhat</h1>
+<!-- <h1 align="center">Hi 👋, I'm Somnath Dudhat</h1>
 <h3 align="center">Certified MERN Stack Developer with 1 year of experience in MongoDB, Express.js, React.js, and Node.js. Skilled in JavaScript, Java, SQL, and API design. Expertise in implementing Redux for efficient state management, reducing application size by 25%. Demonstrated proficiency in React JS and NodeJS, driving a 15% improvement in development productivity. Leveraged the power of the MERN stack to streamline processes, enhance efficiency, and deliver exceptional customer experiences. Committed to contributing to your organization's success by driving impactful solutions and leveraging my diverse skill set.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnath2001&label=Profile%20views&color=0e75b6&style=flat" alt="somnath2001" /> </p>
@@ -113,4 +112,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somnath2001&show_icons=true&locale=en" alt="somnath2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath2001&" alt="somnath2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath2001&" alt="somnath2001" /></p> -->
