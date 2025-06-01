@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Somnath Dudhat 
 
-I am a passionate software developer with **2.6 years** of experience in building web-based applications using the **MERN Stack** and advanced **Java/J2EE** technologies. I thrive in Agile environments, constantly striving for quality and efficiency in my work.
+I am a passionate software developer with **3+ years** of experience in building web-based applications using the **MERN Stack** and advanced **Java/J2EE** technologies. I thrive in Agile environments, constantly striving for quality and efficiency in my work.
 
 
 - 🔭 I’m currently working as Software Development Engineer 
